@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitovi/querystring-parser.git"
+    "url": "https://github.com/Tackpay/querystring-parser"
   },
   "keywords": [
     "querystring",
@@ -29,7 +29,7 @@
     "sequelize"
   ],
   "bugs": {
-    "url": "https://github.com/bitovi/querystring-parser/issues"
+    "url": "https://github.com/Tackpay/querystring-parser/issues"
   },
   "homepage": "https://www.bitovi.com/backend-consulting/nodejs-consulting",
   "license": "MIT",
