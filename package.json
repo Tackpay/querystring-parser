@@ -1,5 +1,5 @@
 {
-  "name": "@bitovi/querystring-parser",
+  "name": "@tackpay/querystring-parser",
   "version": "0.6.2",
   "description": "",
   "main": "index.js",
