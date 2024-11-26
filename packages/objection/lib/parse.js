@@ -1,4 +1,4 @@
-const lib = require("@bitovi/querystring-parser");
+const lib = require("@tackpay/querystring-parser");
 const parseFilters = require("./parse-filter");
 const parseFields = require("./parse-fields");
 const parsePagination = require("./parse-page");

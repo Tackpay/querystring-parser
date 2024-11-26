@@ -1,4 +1,4 @@
-const QuerystringParsingError = require("@bitovi/querystring-parser/lib/errors/querystring-parsing-error");
+const QuerystringParsingError = require("@tackpay/querystring-parser/lib/errors/querystring-parsing-error");
 const { Op } = require("sequelize");
 const parse = require("../lib/parse");
 
