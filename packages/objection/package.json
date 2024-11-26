@@ -1,5 +1,5 @@
 {
-  "name": "@bitovi/objection-querystring-parser",
+  "name": "@tackpay/objection-querystring-parser",
   "version": "0.3.1",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "objection"
   ],
   "dependencies": {
-    "@bitovi/querystring-parser": "^0.8.0"
+    "@tackpay/querystring-parser": "^0.8.0"
   },
   "devDependencies": {
     "@bitovi/eslint-config": "^1.0.0",
